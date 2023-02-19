@@ -5,28 +5,117 @@
 ### Main Lectures 
 <ul>
    <li>Week 0: Scratch <b>[In Progress]</b>
-   <ul>
-      <li>Introduction</li>
-      <li>Binary</li>
-      <li>Representation</li>
-      <li>Algorithms</li>
-      <li>Abstraction</li>
-      <li>Scratch</li>
-      <li>Hello, World</li>
-      <li>Text to speech</li>
-      <li>Loops</li>
-      <li>Custom Blocks, Functions</li>
-      <li>Conditionals</li>
-      <li>Whack-a-mole</li>
-      <li>OscarTime</li>
-      <li>Ivy's Hardest Game</li>
-   </ul>
+      <ul>
+         <li>Introduction</li>
+         <li>Binary</li>
+         <li>Representation</li>
+         <li>Algorithms</li>
+         <li>Abstraction</li>
+         <li>Scratch</li>
+         <li>Hello, World</li>
+         <li>Text to speech</li>
+         <li>Loops</li>
+         <li>Custom Blocks, Functions</li>
+         <li>Conditionals</li>
+         <li>Whack-a-mole</li>
+         <li>OscarTime</li>
+         <li>Ivy's Hardest Game</li>
+      </ul>
    </li>
-   <li>Week 1: C</li>
-   <li>Week 2: Arrays</li>
-   <li>Week 3: Algorithms</li>
-   <li>Week 4: Memory</li>
-   <li>Week 5: DataStructures</li>
+   <li>Week 1: C
+      <ul>
+         <li>Introduction</li>
+         <li>From Scratch to C</li>
+         <li>Compiling</li>
+         <li>Correctness, Design, Style</li>
+         <li>Visual Studio Code</li>
+         <li>Hello, World</li>
+         <li>Libraries, Documentation</li>
+         <li>Format Codes</li>
+         <li>Types</li>
+         <li>Conditionals</li>
+         <li>Loops, Variables</li>
+         <li>Command-line Interface</li>
+         <li>Mario</li>
+         <li>Nested Loops</li>
+         <li>Do While Loops</li>
+         <li>Comments</li>
+         <li>Abstraction</li>
+         <li>Operators</li>
+         <li>Integer Overflow</li>
+         <li>Truncation</li>
+         <li>Floating-Point Impression</li>
+         <li>Y2K</li>
+      </ul>
+   </li>
+   
+   <li>Week 2: Arrays
+      <ul>
+         <li>Readability</li>
+         <li>Compiling</li>
+         <li>Debugging</li>
+         <li>Arrays</li>
+         <li>Strings</li>
+         <li>Command-line Arguments</li>
+         <li>Cowsay</li>
+         <li>Exit Status</li>
+         <li>Cryptography</li>
+      </ul>
+   </li>
+   <li>Week 3: Algorithms
+      <ul>
+         <li>Introduction</li>
+         <li>Algorithms</li>
+         <li>Linear Search</li>
+         <li>Binary Search</li>
+         <li>Running Time</li>
+         <li>Search.c</li>
+         <li>Structs</li>
+         <li>Sorting</li>
+         <li>Selection Sort</li>
+         <li>Bubble Sort</li>
+         <li>Comparing Algorithms</li>
+         <li>Recursion</li>
+         <li>Merge Sort</li>
+         <li>Tradeoffs</li>
+         <li>Sort Race</li>
+      </ul>
+   </li>
+   <li>Week 4: Memory
+      <ul>
+         <li>Introduction</li>
+         <li>Memory </li>
+         <li>Hexadecimal</li>
+         <li>Addresses</li>
+         <li>Pointers</li>
+         <li>Strings</li>
+         <li>Pointer Arithmetic</li>
+         <li>Comparing strings</li>
+         <li>Copying</li>
+         <li>Valgrind</li>
+         <li>Garbage Values</li>
+         <li>Pointer Fun With Binky</li>
+         <li>Swap</li>
+         <li>Overflow</li>
+         <li>Scanf</li>
+         <li>Phonebook</li>
+      </ul>
+   </li>
+   <li>Week 5: DataStructures
+      <ul>
+         <li>Introduction</li>
+         <li>Data Structures</li>
+         <li>Stacks and Queues</li>
+         <li>Jack Learns The Facts</li>
+         <li>Resizing Arrays</li>
+         <li>Linked lists</li>
+         <li>Trees</li>
+         <li>Dictinaries</li>
+         <li>Hashing and Hash Tables</li>
+         <li>Tries</li>
+         <li>Sweetgreen</li>
+      </ul>
+   </li>
    <li>Week 6: Python</li>
    <li>Week 7: SQL</li>
    <li>Week 8: HTML, CSS, JS</li>
@@ -175,3 +264,4 @@
 - CS50 Arabic
    - Abdelrahman Gamal 
    - Rasha Abdeen
+- Computational Thinking and Data Science 
