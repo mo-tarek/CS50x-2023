@@ -170,3 +170,8 @@
 
 ## Academic Honesty
 <ul><li>Academic Honesty for guidelines</li></ul>
+
+## More Resources 
+- CS50 Arabic
+   - Abdelrahman Gamal 
+   - Rasha Abdeen
