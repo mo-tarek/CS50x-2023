@@ -3,7 +3,7 @@
 
 ## Syllabus
 <ul>
-   <li>Week 0: Scratch</li>
+   <li>Week 0: Scratch <b>[In Progress]</b></li>
    <li>Week 1: C</li>
    <li>Week 2: Arrays</li>
    <li>Week 3: Algorithms</li>
