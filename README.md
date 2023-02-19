@@ -2,6 +2,7 @@
 # CS50
 
 ## Syllabus
+### Main Lectures 
 <ul>
    <li>Week 0: Scratch <b>[In Progress]</b></li>
    <li>Week 1: C</li>
@@ -15,6 +16,90 @@
    <li>Week 9: Flask</li>
    <li>Week 10: Emoji</li>
    <li>CyberSecurity</li>
+</ul>
+
+### Shorts & Sections 
+<ul>
+   <li>Week 1 
+      <ul>
+          <li>Data Types</li>
+          <li>Operators</li> 
+          <li>Conditional Statements</li>
+          <li>Loops</li> 
+          <li>Command Line</li> 
+          <li>Magic Numbers</li>
+      </ul>
+   </li>
+   <li>Week 2
+   <ul>
+      <li>Functions</li>
+      <li>Variables and Scope</li>
+      <li>Debugging ("Step Through")</li>
+      <li>Debugging ("Step Into")</li>
+      <li>Arrays</li> 
+      <li>Command Line Arguments</li>
+   </ul>
+   </li>
+      <li>Week 3
+   <ul>
+      <li>Linear Search</li>
+      <li>Binary Search</li>
+      <li>Bubble Sort</li>
+      <li>Selection Sort</li>
+      <li>Recursion</li>
+      <li>Merge Sort</li>
+   </ul>
+   </li>
+   <li>Week 4
+   <ul>
+      <li>Hexadecimal</li>
+      <li>Pointers</li>
+      <li>Custom Data Types</li>
+      <li>Dynamic Memory Allocation</li>
+      <li>Call Stacks</li>
+      <li>File Pointers</li>
+   </ul>
+   </li>
+   <li>Week 5
+   <ul>
+      <li>Data Structures</li>
+      <li>Structures</li>
+      <li>Singly Linked Lists</li>
+      <li>Doubly Linked Lists</li>
+      <li>Hash Tables</li>
+      <li>Tries</li> 
+      <li>Queues</li>
+      <li>Stacks</li>
+   </ul>
+   </li>
+   <li>Week 6
+   <ul>
+      <li>Python</li>
+   </ul>
+   </li>
+   <li>Week 7
+   <ul>
+      <li>SQL</li>
+   </ul>
+   </li>
+   <li>Week 8
+   <ul>
+      <li>Internet Primer</li>
+      <li>IP</li>
+      <li>TCP</li>
+      <li>HTTP</li>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>DOM</li>
+   </ul>
+   </li>
+   <li>Week 9
+   <ul>
+      <li>Flask</li>
+      <li>Ajax</li>
+   </ul>
+   </li>
 </ul>
 
 ## Expectations
