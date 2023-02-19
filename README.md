@@ -4,7 +4,24 @@
 ## Syllabus
 ### Main Lectures 
 <ul>
-   <li>Week 0: Scratch <b>[In Progress]</b></li>
+   <li>Week 0: Scratch <b>[In Progress]</b>
+   <ul>
+      <li>Introduction</li>
+      <li>Binary</li>
+      <li>Representation</li>
+      <li>Algorithms</li>
+      <li>Abstraction</li>
+      <li>Scratch</li>
+      <li>Hello, World</li>
+      <li>Text to speech</li>
+      <li>Loops</li>
+      <li>Custom Blocks, Functions</li>
+      <li>Conditionals</li>
+      <li>Whack-a-mole</li>
+      <li>OscarTime</li>
+      <li>Ivy's Hardest Game</li>
+   </ul>
+   </li>
    <li>Week 1: C</li>
    <li>Week 2: Arrays</li>
    <li>Week 3: Algorithms</li>
